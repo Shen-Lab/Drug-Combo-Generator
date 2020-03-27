@@ -140,13 +140,13 @@ def get_roc_score(edges_pos, edges_neg, emb, adj_in):
 
 # load data
 
-adj_d = np.load('./data/disease_adj.npy')
-adj_g = np.load('./data/genes_genes_net.npy')
-att0 = np.load('./data/gene_GO1_net.npy')
-att1 = np.load('./data/gene_GO2_net.npy')
-att2 = np.load('./data/gene_GO3_net.npy')
-att3 = np.load('./data/gene_pathway.npy')
-att4 = np.load('./data/disease_gene_net.npy')
+adj_d = np.load('/Drug-Combo-Generator/data/disease_adj.npy')
+adj_g = np.load('/Drug-Combo-Generator/data/genes_genes_net.npy')
+att0 = np.load('/Drug-Combo-Generator/data/gene_GO1_net.npy')
+att1 = np.load('/Drug-Combo-Generator/data/gene_GO2_net.npy')
+att2 = np.load('/Drug-Combo-Generator/data/gene_GO3_net.npy')
+att3 = np.load('/Drug-Combo-Generator/data/gene_pathway.npy')
+att4 = np.load('/Drug-Combo-Generator/data/disease_gene_net.npy')
 
 
 
