@@ -3,6 +3,9 @@ HVGAE in TensorFlow
 
 TensorFlow implementation of Hierarchical Variational Graph Auto-Encoder (HVGAE) with attentional pooling for gene-gene and disease-disease networks embedding. 
 
+<img src="hvgae_fig.png" width="600">
+
+
 ## Requirements
 The code has been tested on a Python 2.7.16 conda environment with CUDA 9.0.176, cuDNN 7.0.5, and following packages:
 
