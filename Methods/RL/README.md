@@ -1,5 +1,4 @@
-# Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation
-TensorFlow implementation of drug combination generation through as graph sets.
+TensorFlow implementation of drug combination generation as graph sets.
 
 ## Installation
 - Install rdkit, please refer to the offical website for further details, using anaconda is recommended:
