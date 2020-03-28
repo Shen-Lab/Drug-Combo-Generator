@@ -1,0 +1,299 @@
+abnormalities, multiple	0
+actinomycetales infections	1
+adenocarcinoma	2
+adnexal diseases	3
+adrenal gland diseases	4
+albuminuria	5
+alzheimer disease	6
+amino acid metabolism, inborn errors	7
+amyotrophic lateral sclerosis	8
+anemia	9
+anemia, aplastic	10
+anemia, hemolytic	11
+aneurysm	12
+ankylosis	13
+arrhythmias, cardiac	14
+arterial occlusive diseases	15
+arteriosclerosis	16
+arthritis	17
+arthritis, rheumatoid	18
+asthma	19
+ataxia	20
+autoimmune diseases	21
+autoimmune diseases of the nervous system	22
+bacterial infections	23
+bacterial infections and mycoses	24
+basal ganglia diseases	25
+behcet syndrome	26
+bile duct diseases	27
+biliary tract diseases	28
+blood coagulation disorders	29
+blood coagulation disorders, inherited	30
+blood platelet disorders	31
+blood protein disorders	32
+body weight	33
+bone diseases	34
+bone diseases, developmental	35
+bone diseases, metabolic	36
+bone marrow diseases	37
+brain diseases	38
+brain diseases, metabolic	39
+brain diseases, metabolic, inborn	40
+breast diseases	41
+breast neoplasms	42
+bronchial diseases	43
+carbohydrate metabolism, inborn errors	44
+carcinoma	45
+carcinoma, renal cell	46
+cardiomegaly	47
+cardiomyopathies	48
+cardiomyopathy, dilated	49
+cardiomyopathy, hypertrophic	50
+cardiomyopathy, hypertrophic, familial	51
+cardiovascular abnormalities	52
+cardiovascular diseases	53
+carotid artery diseases	54
+celiac disease	55
+central nervous system diseases	56
+cerebellar ataxia	57
+cerebellar diseases	58
+cerebrovascular disorders	59
+charcot-marie-tooth disease	60
+cholestasis	61
+cholestasis, intrahepatic	62
+chromosome disorders	63
+colitis	64
+colitis, ulcerative	65
+collagen diseases	66
+colonic diseases	67
+colorectal neoplasms	68
+congenital abnormalities	69
+congenital disorders of glycosylation	70
+congenital, hereditary, and neonatal diseases and abnormalities	71
+connective tissue diseases	72
+coronary artery disease	73
+coronary disease	74
+cranial nerve diseases	75
+craniofacial abnormalities	76
+crohn disease	77
+death	78
+death, sudden	79
+death, sudden, cardiac	80
+dementia	81
+demyelinating autoimmune diseases, cns	82
+demyelinating diseases	83
+diabetes mellitus	84
+diabetes mellitus, type 1	85
+diabetes mellitus, type 2	86
+digestive system diseases	87
+digestive system neoplasms	88
+disorders of sex development	89
+dna repair-deficiency disorders	90
+dwarfism	91
+dyskinesias	92
+dysostoses	93
+dyssomnias	94
+ectodermal dysplasia	95
+endocrine gland neoplasms	96
+endocrine system diseases	97
+epilepsy	98
+esophageal diseases	99
+exophthalmos	100
+eye diseases	101
+eye diseases, hereditary	102
+female urogenital diseases	103
+female urogenital diseases and pregnancy complications	104
+gastroenteritis	105
+gastrointestinal diseases	106
+gastrointestinal neoplasms	107
+genetic diseases, inborn	108
+genetic diseases, x-linked	109
+genital diseases, female	110
+genital diseases, male	111
+genital neoplasms, female	112
+genital neoplasms, male	113
+glioma	114
+glomerulonephritis	115
+glucose metabolism disorders	116
+goiter	117
+gonadal disorders	118
+gout	119
+gram-positive bacterial infections	120
+graves disease	121
+hair diseases	122
+head and neck neoplasms	123
+heart arrest	124
+heart defects, congenital	125
+heart diseases	126
+hematologic diseases	127
+hemic and lymphatic diseases	128
+hemorrhagic disorders	129
+hemostatic disorders	130
+hereditary sensory and motor neuropathy	131
+heredodegenerative disorders, nervous system	132
+hyperinsulinism	133
+hypersensitivity	134
+hypersensitivity, immediate	135
+hyperthyroidism	136
+hypopigmentation	137
+hypothalamic diseases	138
+hypotrichosis	139
+immune system diseases	140
+immunologic deficiency syndromes	141
+immunoproliferative disorders	142
+infant, newborn, diseases	143
+inflammatory bowel diseases	144
+insulin resistance	145
+intellectual disability	146
+intestinal diseases	147
+intestinal neoplasms	148
+joint diseases	149
+keratosis	150
+kidney diseases	151
+kidney neoplasms	152
+leprosy	153
+leukemia	154
+leukemia, b-cell	155
+leukemia, lymphocytic, chronic, b-cell	156
+leukemia, lymphoid	157
+leukemia, myeloid	158
+leukemia, myeloid, acute	159
+limb deformities, congenital	160
+lipid metabolism disorders	161
+lipid metabolism, inborn errors	162
+lipidoses	163
+liver cirrhosis	164
+liver cirrhosis, biliary	165
+liver diseases	166
+lung diseases	167
+lung diseases, obstructive	168
+lung neoplasms	169
+lupus erythematosus, systemic	170
+lymphatic diseases	171
+lymphoma	172
+lymphoma, non-hodgkin	173
+lymphoproliferative disorders	174
+lysosomal storage diseases	175
+lysosomal storage diseases, nervous system	176
+macular degeneration	177
+malabsorption syndromes	178
+male urogenital diseases	179
+malformations of cortical development	180
+mental retardation, x-linked	181
+metabolic diseases	182
+metabolic syndrome x	183
+metabolism, inborn errors	184
+metal metabolism, inborn errors	185
+mitochondrial diseases	186
+motor neuron disease	187
+mouth diseases	188
+movement disorders	189
+multiple sclerosis	190
+muscular diseases	191
+muscular disorders, atrophic	192
+muscular dystrophies	193
+musculoskeletal abnormalities	194
+musculoskeletal diseases	195
+mycobacterium infections	196
+myeloproliferative disorders	197
+myocardial infarction	198
+myocardial ischemia	199
+neoplasms	200
+neoplasms by histologic type	201
+neoplasms by site	202
+neoplasms, connective and soft tissue	203
+neoplasms, connective tissue	204
+neoplasms, germ cell and embryonal	205
+neoplasms, glandular and epithelial	206
+neoplasms, nerve tissue	207
+neoplasms, neuroepithelial	208
+neoplastic syndromes, hereditary	209
+nephritis	210
+nervous system diseases	211
+nervous system malformations	212
+neurobehavioral manifestations	213
+neurodegenerative diseases	214
+neuroectodermal tumors	215
+neuroendocrine tumors	216
+neurologic manifestations	217
+neuromuscular diseases	218
+nevi	219
+nutrition disorders	220
+nutritional and metabolic diseases	221
+obesity	222
+ocular motility disorders	223
+orbital diseases	224
+osteochondrodysplasias	225
+osteoporosis	226
+otorhinolaryngologic diseases	227
+ovarian diseases	228
+ovarian neoplasms	229
+overnutrition	230
+overweight	231
+pancreatic diseases	232
+panuveitis	233
+parkinson disease	234
+parkinsonian disorders	235
+pathologic processes	236
+pathological conditions, anatomical	237
+pathological conditions, signs and symptoms	238
+peripheral nervous system diseases	239
+peroxisomal disorders	240
+pigmentation disorders	241
+polyneuropathies	242
+precursor cell lymphoblastic leukemia-lymphoma	243
+prostatic diseases	244
+prostatic neoplasms	245
+proteinuria	246
+proteostasis deficiencies	247
+psoriasis	248
+purine-pyrimidine metabolism, inborn errors	249
+rectal diseases	250
+renal tubular transport, inborn errors	251
+respiratory hypersensitivity	252
+respiratory tract diseases	253
+respiratory tract neoplasms	254
+retinal degeneration	255
+retinal diseases	256
+retinal dystrophies	257
+retinitis pigmentosa	258
+rheumatic diseases	259
+sarcoma	260
+sensation disorders	261
+signs and symptoms	262
+skin abnormalities	263
+skin and connective tissue diseases	264
+skin diseases	265
+skin diseases, genetic	266
+skin diseases, papulosquamous	267
+skin diseases, vascular	268
+sleep disorders	269
+spastic paraplegia, hereditary	270
+spinal cord diseases	271
+spinal diseases	272
+spinocerebellar ataxias	273
+spinocerebellar degenerations	274
+spondylarthritis	275
+spondylarthropathies	276
+spondylitis	277
+spondylitis, ankylosing	278
+stomatognathic diseases	279
+stomatognathic system abnormalities	280
+tauopathies	281
+tdp-43 proteinopathies	282
+thoracic neoplasms	283
+thyroid diseases	284
+urination disorders	285
+urogenital abnormalities	286
+urogenital neoplasms	287
+urologic diseases	288
+urologic neoplasms	289
+urological manifestations	290
+uveal diseases	291
+uveitis	292
+uveitis, anterior	293
+varicose veins	294
+vascular diseases	295
+vasculitis	296
+virus diseases	297
+vision disorders	298
