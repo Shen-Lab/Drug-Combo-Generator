@@ -67,4 +67,4 @@ All the generated molecules along the training process will be stored in the `mo
 
 
 ## Note
-Our code is based on open source implementation of graph convolutional policy networks by [You, 2018](https://github.com/bowenliu16/rl_graph_generation).
+Our code is based on open source implementation of graph convolutional policy networks by [You et. al., 2018](https://github.com/bowenliu16/rl_graph_generation).
