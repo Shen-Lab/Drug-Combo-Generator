@@ -66,5 +66,5 @@ python run_drug_comb_generator.py --disease_id=42
 All the generated molecules along the training process will be stored in the `molecule_gen` folder, each run configuration is stored in a different csv file. Molecules are stored using SMILES strings, along with the desired properties scores.
 
 
-### Note
+## Note
 Our code is based on open source implementation of graph convolutional policy networks by [You, 2018](https://github.com/bowenliu16/rl_graph_generation).
