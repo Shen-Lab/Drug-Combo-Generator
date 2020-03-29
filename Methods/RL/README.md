@@ -28,13 +28,13 @@ There are 4 important files:
 - The molecule environment code is in `gym-molecule/gym_molecule/envs/molecule.py`.
 - RL related code is in `rl-baselines/baselines/ppo1` folder: `gcn_policy.py` is the GCN policy network; `pposgd_simple_gcn.py` is the PPO algorithm specifically tuned for GCN policy.
 
-## Drug scaffolds:
-2 drug scaffolds (pairwise drug combination ) with SDF representation should be provided as `d1_sdf.txt` and `d2_sdf.txt` to run the code.
+## Drug scaffolds
+2 drug scaffolds (in case of pairwise drug combination) with SDF representation should be provided as `d1_sdf.txt` and `d2_sdf.txt` to run the code.
 
-## Disease ID:
+## Disease ID
 Drug combinations can be generated for 299 disease. To run the code for an specific disease you should check its ID from `Disease_ID.txt` file and use `--disease_id=42` (for example breast cancer) as the argument.
 
-## Important hyperparameters:
+## Hyperparameters
 There are plenty of hyperparameters in the model. The important ones to consider are:
 * --lr: Initial learning rate
 * --load\_step: Iteration number to initialized the weights (the default value is 6300 and is provided in the `ckpt` folder)
