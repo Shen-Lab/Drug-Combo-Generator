@@ -41,5 +41,5 @@ The following hyperparameters can be modified using args input. The default valu
  * Example 1: ```python train.py```
  * Example 2: ```python train.py --lr 0.01```
  
- ### Note
- Our code is based on open source implementation of VGAE by [Kipf and Welling, 2016](https://github.com/tkipf/gae).
+## Note
+Our code is based on open source implementation of VGAE by [Kipf and Welling, 2016](https://github.com/tkipf/gae).
