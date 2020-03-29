@@ -1,4 +1,9 @@
+Graph set generation in Tensorflow
+===
+
 TensorFlow implementation of drug combination generation as graph sets.
+
+<img src="rl_scheme.png" width="600">
 
 ## Installation
 - Install rdkit, please refer to the offical website for further details, using anaconda is recommended:
