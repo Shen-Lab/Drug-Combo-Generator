@@ -19,6 +19,17 @@ To test our model, please follow the steps below:
 * To run the HVGAE part, go to the Methods/HVGAE directory and follow the instructions.
 * To run the drug generation part, go to the Methods/RL directory and follow the instructions.
 
+## Citation:
+If you find the code useful for your research, please consider citing our paper:
+```
+@article{karimi2020network,
+  title={Network-principled deep generative models for designing drug combinations as graph sets},
+  author={Karimi, Mostafa and Hasanzadeh, Arman and Shen, Yang},
+  journal={arXiv preprint arXiv:2004.07782},
+  year={2020}
+}
+```
+
 
 ## Contacts
 Yang Shen: yshen@tamu.edu
