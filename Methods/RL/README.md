@@ -66,5 +66,10 @@ python run_drug_comb_generator.py --disease_id=42
 All the generated molecules along the training process will be stored in the `molecule_gen` folder, each run configuration is stored in a different csv file. Molecules are stored using SMILES strings, along with the desired properties scores.
 
 
+## Network score calculation
+At first, you need to provide two input files "drug_eval1.txt" and "drug_eval2.txt" (in SMILE format). You can calculate network score for these drug airs by running:
+python run_deepaffinity.py --disease_id=42
+
+The output files would "reward_eval.txt" and "adverse_eval.txt" corresponding to network score and adverse score (intersection of drug targets) respectively.
 ## Note
 Our code is based on open source implementation of graph convolutional policy networks by [You et. al., 2018](https://github.com/bowenliu16/rl_graph_generation).

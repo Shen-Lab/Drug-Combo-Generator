@@ -45,7 +45,7 @@ def train(args,seed,writer=None):
     print(env2.observation_space)
     env2.seed(workerseed+2)
     just_oracle.deepaffinity(args,env1, env2,policy_fn,
-         vocab_comp,disease_feat.shape[0],disease_num,disease_1hop_name[disease_num],
+         vocab_comp,disease_feat.shape[0],args.disease_id,disease_1hop_name[args.disease_id],
          max_timesteps=args.num_steps,
          timesteps_per_actorbatch=256,
          clip_param=0.2, entcoeff=0.01,
@@ -122,7 +122,7 @@ def molecule_arg_parser():
     parser.add_argument('--name_full',type=str,default='')
     parser.add_argument('--name_full_load',type=str,default='')
  
-    parser.add_argument('--disease_num',type=int,default=229) 
+    parser.add_argument('--disease_id',type=int,default=200)
     parser.add_argument('--network_weight',type=int,default=10)
     parser.add_argument('--deepaffinity_thr',type=int,default=6)
     parser.add_argument('--others_weight',type=int,default=1)
