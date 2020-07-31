@@ -67,8 +67,10 @@ All the generated molecules along the training process will be stored in the `mo
 
 
 ## Network score calculation
-At first, you need to provide two input files "drug_eval1.txt" and "drug_eval2.txt" (in SMILE format). You can calculate network score for these drug airs by running:
+At first, you need to provide two input files "drug_eval1.txt" and "drug_eval2.txt" (in SMILE format). You can calculate network score for these drug pairs by running:
+```bash
 python run_deepaffinity.py --disease_id=42
+```
 
 The output files would "reward_eval.txt" and "adverse_eval.txt" corresponding to network score and adverse score (intersection of drug targets) respectively.
 ## Note
