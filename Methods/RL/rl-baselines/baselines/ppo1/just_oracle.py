@@ -481,8 +481,8 @@ def deepaffinity(args, env1, env2, policy_fn,
     #disease_list = list(range(num_disease))
     #random.shuffle(disease_list)
 
-    class_model1.load_weights('../checkpoint_classifier/weights.best.hdf5')
-    class_model2.load_weights('../checkpoint_classifier/weights.best.hdf5')
+    class_model1.load_weights('ckpt/weights.best.hdf5')
+    class_model2.load_weights('ckpt/weights.best.hdf5')
     assert sum([max_iters>0, max_timesteps>0, max_episodes>0, max_seconds>0])==1, "Only one time constraint permitted"
     if args.load==1:
         try:

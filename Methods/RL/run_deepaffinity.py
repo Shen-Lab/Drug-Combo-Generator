@@ -95,7 +95,7 @@ def molecule_arg_parser():
     parser.add_argument('--expert_end', type=int, default=int(1e6))
     parser.add_argument('--save_every', type=int, default=50)
     parser.add_argument('--load', type=int, default=1)
-    parser.add_argument('--load_step', type=int, default=14350)
+    parser.add_argument('--load_step', type=int, default=6800)
     # parser.add_argument('--load_step', type=int, default=0)
     parser.add_argument('--curriculum', type=int, default=0)
     parser.add_argument('--curriculum_num', type=int, default=6)
@@ -111,7 +111,7 @@ def molecule_arg_parser():
     parser.add_argument('--has_feature', type=int, default=1)
     parser.add_argument('--emb_size', type=int, default=64) # default 64
     parser.add_argument('--gcn_aggregate', type=str, default='mean')# sum, mean, concat
-    parser.add_argument('--gan_type', type=str, default='wgan')# normal, recommend, wgan
+    parser.add_argument('--gan_type', type=str, default='wgan')
     parser.add_argument('--gate_sum_d', type=int, default=0)
     parser.add_argument('--mask_null', type=int, default=0)
     parser.add_argument('--is_conditional', type=int, default=1) # default 0
