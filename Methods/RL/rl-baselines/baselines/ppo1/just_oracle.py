@@ -481,14 +481,15 @@ def deepaffinity(args, env1, env2, policy_fn,
     #disease_list = list(range(num_disease))
     #random.shuffle(disease_list)
 
-    class_model1.load_weights('ckpt/weights.best.hdf5')
-    class_model2.load_weights('ckpt/weights.best.hdf5')
+    #class_model1.load_weights('ckpt/weights.best.hdf5')
+    #class_model2.load_weights('ckpt/weights.best.hdf5')
     assert sum([max_iters>0, max_timesteps>0, max_episodes>0, max_seconds>0])==1, "Only one time constraint permitted"
     if args.load==1:
         try:
             fname1 = './ckpt/' + args.name_full_load1
             fname2 = './ckpt/' + args.name_full_load2
             sess = tf.get_default_session()
+            sess.run(tf.global_variables_initializer())
             saver1 = tf.train.Saver(var_list_pi1)
             saver2 = tf.train.Saver(var_list_pi2)
             saver1.restore(sess, fname1)
@@ -498,6 +499,9 @@ def deepaffinity(args, env1, env2, policy_fn,
             print('model restored!', fname2, 'iters_so_far:', iters_so_far,flush=True)
         except:
             print(fname,'ckpt not found, start with iters 0')
+
+    class_model1.load_weights('ckpt/weights.best.hdf5')
+    class_model2.load_weights('ckpt/weights.best.hdf5')
 
     adam_pi1.sync()
     adam_pi_stop1.sync()

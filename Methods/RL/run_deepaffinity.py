@@ -13,7 +13,7 @@ from gym_molecule.envs.molecule import GraphEnv,get_disease_name_info
 def train(args,seed,writer=None):
     from baselines.ppo1 import just_oracle, gcn_policy
     import baselines.common.tf_util as U
-    vocab_comp,disease_feat,disease_1hop,disease_1hop_name,disease_gene_list = get_disease_name_info('../data/')
+    vocab_comp,disease_feat,disease_1hop,disease_1hop_name,disease_gene_list = get_disease_name_info('../../Data/')
     rank = MPI.COMM_WORLD.Get_rank()
     sess = U.single_threaded_session()
     sess.__enter__()
