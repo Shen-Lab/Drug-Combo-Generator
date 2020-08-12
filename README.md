@@ -25,8 +25,12 @@ If you find the code useful for your research, please consider citing our paper:
 @article{karimi2020network,
   title={Network-principled deep generative models for designing drug combinations as graph sets},
   author={Karimi, Mostafa and Hasanzadeh, Arman and Shen, Yang},
-  journal={arXiv preprint arXiv:2004.07782},
-  year={2020}
+  journal={Bioinformatics},
+  volume={36},
+  number={Supplement\_1},
+  pages={i445--i454},
+  year={2020},
+  publisher={Oxford University Press}
 }
 ```
 
