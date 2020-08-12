@@ -477,6 +477,7 @@ def deepaffinity(args, env1, env2, policy_fn,
     # ----------------------------------------
     # ----------------------------------------
 
+    U.initialize()
     #disease_count = 0
     #disease_list = list(range(num_disease))
     #random.shuffle(disease_list)
